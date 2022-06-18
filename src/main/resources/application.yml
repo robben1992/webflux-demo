@@ -1,0 +1,18 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: webflux-demo
+  webflux:
+    base-path: /webflux-demo
+  data:
+    mongodb:
+#      host: localhost
+#      port: 27017
+      uri: mongodb://localhost:27017
+      database: webflux-demo
+  redis:
+    host: localhost
+    port: 6380
+    password: abc123
+    timeout: 5000

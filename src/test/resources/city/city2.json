@@ -1,0 +1,31 @@
+[{
+  "id": "1",
+  "province_id": 12,
+  "city_name": "南昌市1",
+  "description": "省会"
+  },
+  {
+  "id": "2",
+  "province_id": 12,
+  "city_name": "九江市1",
+  "description": "地级市"
+  },
+  {
+    "id": "3",
+    "province_id": 12,
+    "city_name": "吉安市1",
+    "description": "地级市"
+  },
+  {
+    "id": "4",
+    "province_id": 12,
+    "city_name": "井冈山市1",
+    "description": "县级市"
+  },
+  {
+    "id": "8",
+    "province_id": 13,
+    "city_name": "深圳市1",
+    "description": "特区"
+  }
+]
